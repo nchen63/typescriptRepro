@@ -1,0 +1,11 @@
+{
+
+    "compilerOptions": {
+        "baseUrl": ".",
+        "outDir": "build/",
+        "declaration": true
+    },
+    "filesGlob": [
+        "src/**/*.ts{,x}"
+    ]
+}
